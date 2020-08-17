@@ -2,7 +2,7 @@
 
 Link to the task - https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/rslang.md
 
-Link to the deploy - https://rslang-team64-viktorsipach.netlify.app/
+Link to the deploy - https://yekaterinakarakulina-rslang.netlify.app/
 
 QUICK START
 
